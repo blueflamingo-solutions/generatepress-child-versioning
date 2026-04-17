@@ -1,14 +1,10 @@
 {
-  "theme": "theme_child_generatepress",
-  "version": "0.0.0",
-  "details_url": "https://github.com/blueflamingo-solutions/generatepress-child-versioning",
-  "download_url": "https://github.com/blueflamingo-solutions/generatepress-child-versioning/raw/main/theme_child_GeneratePress-0.0.0.zip",
-  "tested": "6.9",
-  "requires_php": "8.1",
-  "last_updated": "2026-04-16",
-  "release_notes": [
-    "Bootstrap release for the public versioning repository",
-    "Theme updater now reads theme.json from the root of generatepress-child-versioning",
-    "Use this package as the base install before testing 0.0.1"
-  ]
+    "theme": "theme_child_enerate_ress",
+    "version": "0.0.1",
+    "details_url": "https://github.com/blueflamingo-solutions/generatepress-child-versioning",
+    "download_url": "https://github.com/blueflamingo-solutions/generatepress-child-versioning/raw/main/theme_child_GeneratePress-0.0.1.zip",
+    "tested": "6.9",
+    "requires_php": "8.1",
+    "last_updated": "2026-04-16",
+    "release_notes": []
 }
